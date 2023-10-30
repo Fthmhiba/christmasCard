@@ -1,0 +1,183 @@
+body{
+    background-color: #edca99fc    
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    padding: 39px;
+    position: relative;
+    margin-right: 50px;
+
+
+}
+.card1{
+    background-color: #fdf7df;
+    width: 726px;
+    height: 1228px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+.cards{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+}
+.c{
+    width: 194px;
+    height: 275px;
+    border: 1px solid #80808066;
+    border-radius: 15px;
+    background-color: white;
+    padding: 0px 5px;
+    margin: 9px 16px;
+
+}
+.img{
+    width: 109px;
+    height: 86px;
+    padding: 7px;
+    border-radius: 20px;
+}
+
+.btt{
+    margin: 4px 22px;
+
+
+}
+.heart{
+    margin-left: 144px;
+    background-color: crimson;
+    border-radius: 13px 0px;
+    padding: 4px 7px;
+    color: white;
+    font-size: x-large;
+    border: none;
+}
+.adv{
+    display: flex;
+    justify-content: center;
+    background-color: darkred;
+    border: 2px solid transparent;
+    border-radius: 21px;
+    height: 203px;
+    width: 581px;
+    padding: 33px 34px;
+    color: white;
+    font-size: large;
+    align-items: center;
+    margin: 18px 39px;
+}
+.para{
+    text-align: left;
+    }
+.p{
+    padding-right: 107px;
+
+}
+.img1{
+    width: 211px;
+    height: 185px;
+    border-radius: 8px;
+}
+.butt{
+    background-color: white;
+    width: 267px;
+    height: 24px;
+    border-radius: 6px;
+    padding: 8px 6px;
+    text-align: center;
+    display: flex;
+}
+.addrs{
+    margin: 0px 22px;
+    padding: 3px 3px;
+    border: none;
+}
+
+.ss{
+    background-color: crimson;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 6px 7px;
+    width: 67px;
+}
+.ft{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ff{
+    display: grid;
+    padding: 13px 4px;
+}
+.cpy{
+    color: grey;
+    padding: 35px;
+}
+
+
+
+
+
+.card2{
+    background-color: #fdf7df;
+    width: 691px;
+    height: 1065px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: rgb(0 0 0 / 57%) 0px 11px 23px;
+    position: absolute;
+    right: 1px;
+    top: 176px;
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 13px;
+}
+.hh{
+
+}
+.btn{
+    padding: 23px;
+
+}
+.b{
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+}
+.adv1{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    padding: 49px 14px;
+    
+}
+.gs{
+    background-color: crimson;
+    color: white;
+    padding: 7px 8px;
+    border: none;
+    border-radius: 5px;
+}
+.cc{
+    width: 194px;
+    height: 210px;
+    border: 1px solid #80808066;
+    border-radius: 15px;
+    background-color: white;
+    padding: 0px 31px;
+    margin: 49px 24px;
+}
+.sh{
+    color: red;
+    padding: 0px 12px;
+}
+
+
